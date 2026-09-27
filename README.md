@@ -1,6 +1,10 @@
-### Hello.
+<h1>Howdy, Name's Saheen </h1>
 
-My name is Saheen Jeyarajah. I'm a uOttawa Computer Science student who is interested in web developement and cybersecurity.
+<h3>About me</h3>
 
-Email: saheenjey@gmail.com
-Linkedin: https://www.linkedin.com/in/saheen-jeyarajah/
+-  I'm a computer science graduate from the **University of Ottawa**
+
+-  You can reach me at **jeyarajahsaheen@gmail.com**
+
+<h3>Let's connect!</h3>
+<a href="https://www.linkedin.com/in/saheen-jeyarajah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saheen-jeyarajah/" height="30" width="40" /></a>
